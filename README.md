@@ -5,13 +5,15 @@
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning more about, well everything xD.
 - 🤔 I’m constaly looking forward for improving my skills
-- 💬 Discord Naman-Biswajit#0001
 - 📫 How to reach me: [Twitter - @NamanBiswajit](https://twitter.com/NamanBiswajit), 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like both coding and science
 
-[![Twitter: NamanBiswajit](https://img.shields.io/twitter/follow/NamanBiswajit?style=social)](https://twitter.com/NamanBiswajit)
-[![GitHub Naman-Biswajit](https://img.shields.io/github/followers/Naman-Biswajit?label=follow&style=social)](https://github.com/Naman-Biswajit)
+[![Twitter: NamanBiswajit](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NamanBiswajit)
+[![GitHub: Naman-Biswajit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/Naman-Biswajit)
+[![Discord: Naman-Biswajit](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+)](https://discords.com/bio/p/naman)
 
 <!-- **Languages and Tools:**  
 

@@ -20,4 +20,4 @@
 </div>
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Biswajit&layout=&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Biswajit&layout=compact&theme=algolia)
